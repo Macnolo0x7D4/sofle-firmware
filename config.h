@@ -1,10 +1,5 @@
 #pragma once
 
-#define RGB_DI_PIN D3
-#define RGBLED_NUM 12
-#define RGBLED_SPLIT {6, 6}
-#define RGBLIGHT_ANIMATIONS
-
 #define ENCODER_DIRECTION_FLIP
 
 #undef ENCODER_RESOLUTION
